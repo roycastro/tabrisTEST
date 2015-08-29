@@ -1,0 +1,9 @@
+{
+  "title": "Demo",
+  "category": "Demo",
+  "description": "Pathik devani",
+  "main": "app.js",
+  "dependencies": {
+    "tabris": "^1.1.0"
+  }
+}
